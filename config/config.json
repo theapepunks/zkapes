@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x13EcA05c0Bd8435DaDfC7D8bae5838159143c815",
+  "SCAN_LINK": "https://zonic.app/collection/polygonzkevm/0x13EcA05c0Bd8435DaDfC7D8bae5838159143c815",
+  "NETWORK": {
+    "NAME": "Polygon zkEVM",
+    "SYMBOL": "ETH",
+    "ID": 1101
+  },
+  "NFT_NAME": "zkApes",
+  "SYMBOL": "ZAPE",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Zonic",
+  "MARKETPLACE_LINK": "https://zonic.app/collection/polygonzkevm/0x13EcA05c0Bd8435DaDfC7D8bae5838159143c815",
+  "SHOW_BACKGROUND": true
+}
